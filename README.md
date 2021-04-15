@@ -4,7 +4,7 @@
 
   ![GitHub User's stars](https://img.shields.io/github/stars/aykutcihansevim?style=social)
   ![GitHub followers](https://img.shields.io/github/followers/aykutcihansevim?style=social)
-  ![Github visitors](https://visitor-badge.glitch.me/badge?page_id=aykutcihansevim.id)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=aykutcihansevim.id)
 
 # Hi 👋
 I'm Cihan! I am improving myself on projects related to web and mobile. I interested in back-end development using with ASP.NET Core, mobile development with Xamarin. Also I start to develop Typescript projects with Angular.
