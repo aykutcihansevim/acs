@@ -4,7 +4,7 @@
 
   ![GitHub User's stars](https://img.shields.io/github/stars/aykutcihansevim?style=social)
   ![GitHub followers](https://img.shields.io/github/followers/aykutcihansevim?style=social)
-  [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=aykutcihansevim.visitor-badge)](https://GitHub.com/aykutcihansevim/StrapDown.js/stargazers/)
+  [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=aykutcihansevim.visitor-badge)
  
 
 # Hi 👋
