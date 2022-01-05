@@ -7,7 +7,7 @@
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=aykutcihansevim.id)
 
 # Hi 👋
-I'm Cihan! I am improving myself on projects related to web and mobile. I interested in back-end development using with ASP.NET Core, mobile development with Xamarin. Also I start to develop Typescript projects with Angular.
+I'm Cihan! I have a great passion in software development. I spend time to follow up on current technological news, projects. I am improving myself on projects related to web and mobile. I interested in back-end development using with ASP.NET Core, mobile development with Xamarin. 
 
 Contact with me via these platforms! 
 
