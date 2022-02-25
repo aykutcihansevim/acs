@@ -29,7 +29,7 @@ Contact with me via these platforms!
 
 ## 📊 GitHub Stats
 
-<a href="https://www.coderacs.com/"><img height="160px" width="50%" src="https://github-readme-stats.vercel.app/api?username=aykutcihansevim&count_private=true&show_icons=true&theme=tokyonight" /><!-- wi*quL3fcV --><img height="160px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutcihansevim&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight" /></a>
+<img height="160px" width="50%" src="https://github-readme-stats.vercel.app/api?username=aykutcihansevim&count_private=true&show_icons=true&theme=tokyonight" /><!-- wi*quL3fcV --><img height="160px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutcihansevim&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight" /></a>
 
 
 
