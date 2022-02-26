@@ -46,12 +46,7 @@ Contact with me via these platforms!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aykutcihansevim&count_private=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutcihansevim&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight">
-  <a href="https://github.com/aykutcihansevim/MyFinalProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=aykutcihansevim&repo=MyFinalProject&show_icons=true&theme=tokyonight"</img>
-  </a>
-  <a href="https://github.com/aykutcihansevim/acs">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=aykutcihansevim&repo=acs&show_icons=true&theme=tokyonight"</img>
-  </a>
+
 </p>
 Here are some ideas to get you started:
 
