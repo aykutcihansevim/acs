@@ -7,7 +7,7 @@
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=aykutcihansevim.id)
 
 # Hi 👋
-I'm Cihan! I have a great passion in software development. I spend time to follow up on current technological news, projects. I am improving myself on projects related to web and mobile. I especially interested in cross platform mobile development.
+I'm Cihan! I have a great passion for software development. The main reason for this is that we can produce solutions that will make life easier in an endless learning adventure. I think it's really fascinating to come up with solutions to various problems, develop a product, and respond to different needs by programming. I like to follow technological developments. Currently, I am developing myself in web and mobile related projects. I am particularly interested in cross-platform mobile app development.
 
 
 Contact with me via these platforms! 
